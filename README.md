@@ -1,3 +1,3 @@
 # covid_19
 
-Extracción de datos de Boletín Epidemológico 2020 Secretaría de Salud 
+Extracción de datos del Boletín Epidemológico 2020 de la Secretaría de Salud 
