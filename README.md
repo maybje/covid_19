@@ -1,3 +1,6 @@
-# covid_19
+# covid_19: Méxicp
 
-Extracción de datos del Boletín Epidemológico 2020 de la Secretaría de Salud 
+- Respiratory Diseases Weekly Cases in Mexico 2020: a covid-19 untested cases analysis
+- Data extraction from the weekly Epidemiological Report (Boletín Epidemológico) published by Mexico's Ministry of Health (Secretaría de Salud).
+
+
